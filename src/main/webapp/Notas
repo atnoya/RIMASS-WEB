@@ -1,0 +1,22 @@
+1) Sobre el interfaz Arbol
+    + Mostrar Cantidad de Restricciones (onmouseover) //REJECTED!!!
+    + Show a list of candidate roots to be added to the tree and add it. (Meter manualmente)
+    + Create a search method to look into the list of restrictions, generalizations and so on.
+    + Leave a generic relation when dropping a root to a node. //DONE
+    - Lanzar excepciones y Controlar ERRORES en el controlador!!! y mostrarlas en la vista.
+    -¿Extension de linea...¿Cortar??
+
+2) Sobre resto interfaz
+    + Crear menu
+    - Guardar/Recuperar Consultas
+    + Usuarios!!!
+        - Validar si el nuevo email esta libre
+        - Recuperar password olvidada
+
+-----------------------------------
+
+Building Web Applications with UML
+Jim Conallen. 2000
+Addyson-Wesley
+
+Web Application Extension for UML
